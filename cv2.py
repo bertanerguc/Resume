@@ -33,7 +33,7 @@ elif menu == "Personal Info":
 # Education Sayfası
 elif menu == "Education":
     st.title("Education")
-    st.subheader("Bachelor of Crop Science in Agricultural Engineering")
+    st.subheader("Bachelor's Degree in Statistics")
     st.write("**University:** Adnan Menderes University")
     st.write("**Year:** 2005 - 2009")
     st.write("""
