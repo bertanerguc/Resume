@@ -38,7 +38,6 @@ elif menu == "Education":
     st.write("**Year:** 2005 - 2009")
     st.write("""
     - Due to my outstanding academic performance, I was awarded the opportunity to complete an internship at Humboldt University in Berlin.
-    - Notably, I was the first Turkish student accepted in the field of agriculture from Turkey to this prestigious institution.
     """)
     st.subheader("MBA, Accounting and Finance")
     st.write("**University:** University of Economics")
